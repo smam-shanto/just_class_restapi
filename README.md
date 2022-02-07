@@ -1,4 +1,4 @@
-# just_class
+# RestApi_just_class
 
 This repository is to be used as a reference for API calling and Json Parsing.
 the Http and Dio, both packages are used in this code.
